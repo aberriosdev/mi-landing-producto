@@ -1,0 +1,7 @@
+body {
+    scroll-behavior: smooth;
+}
+
+header {
+    background: linear-gradient(135deg, #3a32d6, #9792da);
+}
